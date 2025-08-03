@@ -157,10 +157,4 @@ python manage.py test hotels            # Test specific app
 4. Push to branch (`git push origin feature/NewFeature`)
 5. Create Pull Request
 
-## 📄 License
 
-MIT License - see LICENSE file for details.
-
----
-
-**Version**: 1.0.0 | **Django**: 4.x | **Python**: 3.8+
